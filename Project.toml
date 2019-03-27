@@ -1,0 +1,10 @@
+name = "YaoGraphRegister"
+uuid = "a0a6b67b-bc4a-5cd2-b039-56b96314fa91"
+authors = ["Roger-luo <hiroger@qq.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
